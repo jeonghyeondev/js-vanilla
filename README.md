@@ -9,7 +9,7 @@ vanilla js
         - date.getMinutes();
         - date.getSeconds();
 
-    * Random Cahnge Imges
+    * Random Change image
 
 ### modal
     * Center Modal 
