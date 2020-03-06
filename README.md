@@ -1,4 +1,5 @@
-#vanilla js
+vanilla js
+=============
 
 ### time
     * Standard built-in objects 
@@ -7,7 +8,7 @@
         - date.getHours();
         - date.getMinutes();
         - date.getSeconds();
-        
+
     * Random Cahnge Imges
 
 ### modal
