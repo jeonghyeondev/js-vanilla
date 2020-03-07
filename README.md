@@ -1,5 +1,5 @@
-vanilla js
-=============
+# vanilla js
+Vanilla JS 저장소입니다. :)
 
 ### time
     * Standard built-in objects 
